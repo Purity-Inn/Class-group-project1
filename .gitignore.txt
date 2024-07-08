@@ -1,3 +1,0 @@
-# ignore all.htm files
-*.htm
-sssss
